@@ -35,6 +35,7 @@ Translating a Korean name into an English romanization is a type of machine tran
     <code>python3 -m pip install -r requirement.txt</code> 
 
 WORK IN PROGRESS...
+
 ### Authors:
 
 <a href="https://www.w3.org/">Queenie Luo</a>
@@ -59,3 +60,11 @@ WORK IN PROGRESS...
 <a href="https://library.princeton.edu/staff/hyoungl">Hyoungbae Lee</a>
 <br>
 Shirley Boya Ouyang
+
+### License:
+Copyright (c) 2023 CBDB
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or
+send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
