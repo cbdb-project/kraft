@@ -5,36 +5,8 @@ The Kraft (Korean Romanization From Transformer) model translates the characters
 
 Translating a Korean name into an English romanization is a type of machine translation task, where the input is a sequence of characters representing a Korean name, and the output is a sequence of characters representing the English romanization of that name. The Transformer model, with its attention mechanism and ability to handle input sequences of varying lengths, is well-suited to this type of task, and is able to accurately translate Korean names to English romanization. 
 
-### QuickStart
+### Quick start for python beginners and experts
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aIGvyvqRdHv7QTRahhD1sf8L6yV39kxc?usp=sharing)
-
-### Installation
-
-### How to use
-
-1. __Installing the package:__
-
-   * clone our github repository with the following line:
-    
-    <code>https://github.com/cbdb-project/kraft.git</code>
-
-   * cd to kraft directory:
-    
-    <code>cd {YOUR_LOCAL_DIRECTORY}/kraft</code>
-
-   * create a virtual environment:
-
-    <code>python3 -m venv kraft</code>
-
-   * activate the kraft virtual environment:
-
-    <code>source kraft/bin/activate</code>
-
-   * install dependencies from requirement.txt (downloaded from our GitHub repository): 
-
-    <code>python3 -m pip install -r requirement.txt</code> 
-
-WORK IN PROGRESS...
 
 ### Authors:
 
