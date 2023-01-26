@@ -1,6 +1,7 @@
-# korean-name-romanization
+# Kraft (Korean Romanization From Transformer)
+
 ### Introduction
-The Transformer architecture is a type of neural network architecture that was introduced in the 2017 paper "Attention Is All You Need" by Google researchers. It is designed for sequence-to-sequence tasks, such as machine translation, language modeling, and summarization.
+The Kraft (Korean Romanization From Transformer) model translates the characters of a Korean name into the Roman alphabet. Kraft uses the Transformer architecture, which is a type of neural network architecture that was introduced in the 2017 paper "Attention Is All You Need" by Google researchers. It is designed for sequence-to-sequence tasks, such as machine translation, language modeling, and summarization.
 
 Translating a Korean name into an English romanization is a type of machine translation task, where the input is a sequence of characters representing a Korean name, and the output is a sequence of characters representing the English romanization of that name. The Transformer model, with its attention mechanism and ability to handle input sequences of varying lengths, is well-suited to this type of task, and is able to accurately translate Korean names to English romanization. 
 
